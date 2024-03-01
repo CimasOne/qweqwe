@@ -1,0 +1,30 @@
+﻿@model Contact
+@{
+    ViewData["Title"] = "Feedback";
+}
+
+<h1>Feedback</h1>
+
+<form method="post" asp-asp-controller="Contacts" asp-action="Check">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+    <span asp-asp-validation-for="Name"></span>
+
+    <label asp-for="Surname"></label>
+    <input asp-for="Surname" />
+    <span asp-asp-validation-for="Surname"></span>
+
+    <label asp-for="Age"></label>
+    <input asp-for="Age" />
+    <span asp-asp-validation-for="Age"></span>
+
+    <label asp-for="Email"></label>
+    <input asp-for="Email" />
+    <span asp-asp-validation-for="Email"></span>
+
+    <label asp-for="Massage"></label>
+    <input asp-for="Massage" />
+    <span asp-asp-validation-for="Massage"></span>
+
+    <input type="submit" value="Send"/>
+</form>

@@ -1,0 +1,14 @@
+D:\project\ExtremeCode\bin\Debug\net8.0\ExtremeCode.exe
+D:\project\ExtremeCode\bin\Debug\net8.0\ExtremeCode.deps.json
+D:\project\ExtremeCode\bin\Debug\net8.0\ExtremeCode.runtimeconfig.json
+D:\project\ExtremeCode\bin\Debug\net8.0\ExtremeCode.dll
+D:\project\ExtremeCode\bin\Debug\net8.0\ExtremeCode.pdb
+D:\project\ExtremeCode\obj\Debug\net8.0\ExtremeCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\ExtremeCode\obj\Debug\net8.0\ExtremeCode.AssemblyInfoInputs.cache
+D:\project\ExtremeCode\obj\Debug\net8.0\ExtremeCode.AssemblyInfo.cs
+D:\project\ExtremeCode\obj\Debug\net8.0\ExtremeCode.csproj.CoreCompileInputs.cache
+D:\project\ExtremeCode\obj\Debug\net8.0\ExtremeCode.dll
+D:\project\ExtremeCode\obj\Debug\net8.0\refint\ExtremeCode.dll
+D:\project\ExtremeCode\obj\Debug\net8.0\ExtremeCode.pdb
+D:\project\ExtremeCode\obj\Debug\net8.0\ExtremeCode.genruntimeconfig.cache
+D:\project\ExtremeCode\obj\Debug\net8.0\ref\ExtremeCode.dll

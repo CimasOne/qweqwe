@@ -1,0 +1,14 @@
+D:\project\SimpleCode(15-30lesson)\bin\Debug\net8.0\SimpleCode(15-30lesson).exe
+D:\project\SimpleCode(15-30lesson)\bin\Debug\net8.0\SimpleCode(15-30lesson).deps.json
+D:\project\SimpleCode(15-30lesson)\bin\Debug\net8.0\SimpleCode(15-30lesson).runtimeconfig.json
+D:\project\SimpleCode(15-30lesson)\bin\Debug\net8.0\SimpleCode(15-30lesson).dll
+D:\project\SimpleCode(15-30lesson)\bin\Debug\net8.0\SimpleCode(15-30lesson).pdb
+D:\project\SimpleCode(15-30lesson)\obj\Debug\net8.0\SimpleCode(15-30lesson).GeneratedMSBuildEditorConfig.editorconfig
+D:\project\SimpleCode(15-30lesson)\obj\Debug\net8.0\SimpleCode(15-30lesson).AssemblyInfoInputs.cache
+D:\project\SimpleCode(15-30lesson)\obj\Debug\net8.0\SimpleCode(15-30lesson).AssemblyInfo.cs
+D:\project\SimpleCode(15-30lesson)\obj\Debug\net8.0\SimpleCode(15-30lesson).csproj.CoreCompileInputs.cache
+D:\project\SimpleCode(15-30lesson)\obj\Debug\net8.0\SimpleCode(15-30lesson).dll
+D:\project\SimpleCode(15-30lesson)\obj\Debug\net8.0\refint\SimpleCode(15-30lesson).dll
+D:\project\SimpleCode(15-30lesson)\obj\Debug\net8.0\SimpleCode(15-30lesson).pdb
+D:\project\SimpleCode(15-30lesson)\obj\Debug\net8.0\SimpleCode(15-30lesson).genruntimeconfig.cache
+D:\project\SimpleCode(15-30lesson)\obj\Debug\net8.0\ref\SimpleCode(15-30lesson).dll

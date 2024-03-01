@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lessons on courses,playlists/1.0.0": {
+        "runtime": {
+          "Lessons on courses,playlists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lessons on courses,playlists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

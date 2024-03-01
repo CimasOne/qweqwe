@@ -1,0 +1,14 @@
+D:\project\DZ#SimpleCode\bin\Debug\net8.0\DZ#SimpleCode.exe
+D:\project\DZ#SimpleCode\bin\Debug\net8.0\DZ#SimpleCode.deps.json
+D:\project\DZ#SimpleCode\bin\Debug\net8.0\DZ#SimpleCode.runtimeconfig.json
+D:\project\DZ#SimpleCode\bin\Debug\net8.0\DZ#SimpleCode.dll
+D:\project\DZ#SimpleCode\bin\Debug\net8.0\DZ#SimpleCode.pdb
+D:\project\DZ#SimpleCode\obj\Debug\net8.0\DZ#SimpleCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\DZ#SimpleCode\obj\Debug\net8.0\DZ#SimpleCode.AssemblyInfoInputs.cache
+D:\project\DZ#SimpleCode\obj\Debug\net8.0\DZ#SimpleCode.AssemblyInfo.cs
+D:\project\DZ#SimpleCode\obj\Debug\net8.0\DZ#SimpleCode.csproj.CoreCompileInputs.cache
+D:\project\DZ#SimpleCode\obj\Debug\net8.0\DZ#SimpleCode.dll
+D:\project\DZ#SimpleCode\obj\Debug\net8.0\refint\DZ#SimpleCode.dll
+D:\project\DZ#SimpleCode\obj\Debug\net8.0\DZ#SimpleCode.pdb
+D:\project\DZ#SimpleCode\obj\Debug\net8.0\DZ#SimpleCode.genruntimeconfig.cache
+D:\project\DZ#SimpleCode\obj\Debug\net8.0\ref\DZ#SimpleCode.dll

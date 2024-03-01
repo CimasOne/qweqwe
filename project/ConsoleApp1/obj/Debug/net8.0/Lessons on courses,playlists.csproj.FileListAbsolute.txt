@@ -1,0 +1,14 @@
+D:\project\ConsoleApp1\bin\Debug\net8.0\Lessons on courses,playlists.exe
+D:\project\ConsoleApp1\bin\Debug\net8.0\Lessons on courses,playlists.deps.json
+D:\project\ConsoleApp1\bin\Debug\net8.0\Lessons on courses,playlists.runtimeconfig.json
+D:\project\ConsoleApp1\bin\Debug\net8.0\Lessons on courses,playlists.dll
+D:\project\ConsoleApp1\bin\Debug\net8.0\Lessons on courses,playlists.pdb
+D:\project\ConsoleApp1\obj\Debug\net8.0\Lessons on courses,playlists.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\ConsoleApp1\obj\Debug\net8.0\Lessons on courses,playlists.AssemblyInfoInputs.cache
+D:\project\ConsoleApp1\obj\Debug\net8.0\Lessons on courses,playlists.AssemblyInfo.cs
+D:\project\ConsoleApp1\obj\Debug\net8.0\Lessons on courses,playlists.csproj.CoreCompileInputs.cache
+D:\project\ConsoleApp1\obj\Debug\net8.0\Lessons on courses,playlists.dll
+D:\project\ConsoleApp1\obj\Debug\net8.0\refint\Lessons on courses,playlists.dll
+D:\project\ConsoleApp1\obj\Debug\net8.0\Lessons on courses,playlists.pdb
+D:\project\ConsoleApp1\obj\Debug\net8.0\Lessons on courses,playlists.genruntimeconfig.cache
+D:\project\ConsoleApp1\obj\Debug\net8.0\ref\Lessons on courses,playlists.dll

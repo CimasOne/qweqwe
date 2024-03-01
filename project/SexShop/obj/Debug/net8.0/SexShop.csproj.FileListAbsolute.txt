@@ -1,0 +1,14 @@
+D:\project\SexShop\bin\Debug\net8.0\SexShop.exe
+D:\project\SexShop\bin\Debug\net8.0\SexShop.deps.json
+D:\project\SexShop\bin\Debug\net8.0\SexShop.runtimeconfig.json
+D:\project\SexShop\bin\Debug\net8.0\SexShop.dll
+D:\project\SexShop\bin\Debug\net8.0\SexShop.pdb
+D:\project\SexShop\obj\Debug\net8.0\SexShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\SexShop\obj\Debug\net8.0\SexShop.AssemblyInfoInputs.cache
+D:\project\SexShop\obj\Debug\net8.0\SexShop.AssemblyInfo.cs
+D:\project\SexShop\obj\Debug\net8.0\SexShop.csproj.CoreCompileInputs.cache
+D:\project\SexShop\obj\Debug\net8.0\SexShop.dll
+D:\project\SexShop\obj\Debug\net8.0\refint\SexShop.dll
+D:\project\SexShop\obj\Debug\net8.0\SexShop.pdb
+D:\project\SexShop\obj\Debug\net8.0\SexShop.genruntimeconfig.cache
+D:\project\SexShop\obj\Debug\net8.0\ref\SexShop.dll

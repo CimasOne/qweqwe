@@ -1,0 +1,14 @@
+D:\project\ConsoleApp1\bin\Debug\net8.0\SimpleCode(1-15)lesson.exe
+D:\project\ConsoleApp1\bin\Debug\net8.0\SimpleCode(1-15)lesson.deps.json
+D:\project\ConsoleApp1\bin\Debug\net8.0\SimpleCode(1-15)lesson.runtimeconfig.json
+D:\project\ConsoleApp1\bin\Debug\net8.0\SimpleCode(1-15)lesson.dll
+D:\project\ConsoleApp1\bin\Debug\net8.0\SimpleCode(1-15)lesson.pdb
+D:\project\ConsoleApp1\obj\Debug\net8.0\SimpleCode(1-15)lesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\ConsoleApp1\obj\Debug\net8.0\SimpleCode(1-15)lesson.AssemblyInfoInputs.cache
+D:\project\ConsoleApp1\obj\Debug\net8.0\SimpleCode(1-15)lesson.AssemblyInfo.cs
+D:\project\ConsoleApp1\obj\Debug\net8.0\SimpleCode(1-15)lesson.csproj.CoreCompileInputs.cache
+D:\project\ConsoleApp1\obj\Debug\net8.0\SimpleCode(1-15)lesson.dll
+D:\project\ConsoleApp1\obj\Debug\net8.0\refint\SimpleCode(1-15)lesson.dll
+D:\project\ConsoleApp1\obj\Debug\net8.0\SimpleCode(1-15)lesson.pdb
+D:\project\ConsoleApp1\obj\Debug\net8.0\SimpleCode(1-15)lesson.genruntimeconfig.cache
+D:\project\ConsoleApp1\obj\Debug\net8.0\ref\SimpleCode(1-15)lesson.dll
