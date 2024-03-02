@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\ConsoleApp1\\SimpleCode(1-15lesson).csproj": {}
+    "D:\\qweqwe\\project\\ConsoleApp1\\SimpleCode(1-15lesson).csproj": {}
   },
   "projects": {
-    "D:\\project\\ConsoleApp1\\SimpleCode(1-15lesson).csproj": {
+    "D:\\qweqwe\\project\\ConsoleApp1\\SimpleCode(1-15lesson).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\ConsoleApp1\\SimpleCode(1-15lesson).csproj",
+        "projectUniqueName": "D:\\qweqwe\\project\\ConsoleApp1\\SimpleCode(1-15lesson).csproj",
         "projectName": "SimpleCode(1-15lesson)",
-        "projectPath": "D:\\project\\ConsoleApp1\\SimpleCode(1-15lesson).csproj",
+        "projectPath": "D:\\qweqwe\\project\\ConsoleApp1\\SimpleCode(1-15lesson).csproj",
         "packagesPath": "C:\\Users\\саня\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\qweqwe\\project\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\саня\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

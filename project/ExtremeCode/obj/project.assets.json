@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\ExtremeCode\\ExtremeCode.csproj",
+      "projectUniqueName": "D:\\qweqwe\\project\\ExtremeCode\\ExtremeCode.csproj",
       "projectName": "ExtremeCode",
-      "projectPath": "D:\\project\\ExtremeCode\\ExtremeCode.csproj",
+      "projectPath": "D:\\qweqwe\\project\\ExtremeCode\\ExtremeCode.csproj",
       "packagesPath": "C:\\Users\\саня\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\ExtremeCode\\obj\\",
+      "outputPath": "D:\\qweqwe\\project\\ExtremeCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\саня\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\SimpleCode\\SimpleCode(30-45lesson).csproj": {}
+    "D:\\qweqwe\\project\\SimpleCode\\SimpleCode(30-45lesson).csproj": {}
   },
   "projects": {
-    "D:\\project\\SimpleCode\\SimpleCode(30-45lesson).csproj": {
+    "D:\\qweqwe\\project\\SimpleCode\\SimpleCode(30-45lesson).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\SimpleCode\\SimpleCode(30-45lesson).csproj",
+        "projectUniqueName": "D:\\qweqwe\\project\\SimpleCode\\SimpleCode(30-45lesson).csproj",
         "projectName": "SimpleCode(30-45lesson)",
-        "projectPath": "D:\\project\\SimpleCode\\SimpleCode(30-45lesson).csproj",
+        "projectPath": "D:\\qweqwe\\project\\SimpleCode\\SimpleCode(30-45lesson).csproj",
         "packagesPath": "C:\\Users\\саня\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\SimpleCode\\obj\\",
+        "outputPath": "D:\\qweqwe\\project\\SimpleCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\саня\\AppData\\Roaming\\NuGet\\NuGet.Config",
