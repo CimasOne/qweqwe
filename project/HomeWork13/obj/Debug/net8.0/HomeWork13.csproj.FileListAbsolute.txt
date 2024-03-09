@@ -1,0 +1,15 @@
+D:\first-work\qweqwe\project\HomeWork13\bin\Debug\net8.0\HomeWork13.exe
+D:\first-work\qweqwe\project\HomeWork13\bin\Debug\net8.0\HomeWork13.deps.json
+D:\first-work\qweqwe\project\HomeWork13\bin\Debug\net8.0\HomeWork13.runtimeconfig.json
+D:\first-work\qweqwe\project\HomeWork13\bin\Debug\net8.0\HomeWork13.dll
+D:\first-work\qweqwe\project\HomeWork13\bin\Debug\net8.0\HomeWork13.pdb
+D:\first-work\qweqwe\project\HomeWork13\obj\Debug\net8.0\HomeWork13.GeneratedMSBuildEditorConfig.editorconfig
+D:\first-work\qweqwe\project\HomeWork13\obj\Debug\net8.0\HomeWork13.AssemblyInfoInputs.cache
+D:\first-work\qweqwe\project\HomeWork13\obj\Debug\net8.0\HomeWork13.AssemblyInfo.cs
+D:\first-work\qweqwe\project\HomeWork13\obj\Debug\net8.0\HomeWork13.csproj.CoreCompileInputs.cache
+D:\first-work\qweqwe\project\HomeWork13\obj\Debug\net8.0\HomeWork13.sourcelink.json
+D:\first-work\qweqwe\project\HomeWork13\obj\Debug\net8.0\HomeWork13.dll
+D:\first-work\qweqwe\project\HomeWork13\obj\Debug\net8.0\refint\HomeWork13.dll
+D:\first-work\qweqwe\project\HomeWork13\obj\Debug\net8.0\HomeWork13.pdb
+D:\first-work\qweqwe\project\HomeWork13\obj\Debug\net8.0\HomeWork13.genruntimeconfig.cache
+D:\first-work\qweqwe\project\HomeWork13\obj\Debug\net8.0\ref\HomeWork13.dll

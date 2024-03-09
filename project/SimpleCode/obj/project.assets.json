@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\qweqwe\\project\\SimpleCode\\SimpleCode(30-45lesson).csproj",
+      "projectUniqueName": "D:\\first-work\\qweqwe\\project\\SimpleCode\\SimpleCode(30-45lesson).csproj",
       "projectName": "SimpleCode(30-45lesson)",
-      "projectPath": "D:\\qweqwe\\project\\SimpleCode\\SimpleCode(30-45lesson).csproj",
+      "projectPath": "D:\\first-work\\qweqwe\\project\\SimpleCode\\SimpleCode(30-45lesson).csproj",
       "packagesPath": "C:\\Users\\саня\\.nuget\\packages\\",
-      "outputPath": "D:\\qweqwe\\project\\SimpleCode\\obj\\",
+      "outputPath": "D:\\first-work\\qweqwe\\project\\SimpleCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\саня\\AppData\\Roaming\\NuGet\\NuGet.Config",

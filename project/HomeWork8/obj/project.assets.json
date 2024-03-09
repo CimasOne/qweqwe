@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\HomeWork8\\HomeWork8.csproj",
+      "projectUniqueName": "D:\\first-work\\qweqwe\\project\\HomeWork8\\HomeWork8.csproj",
       "projectName": "HomeWork8",
-      "projectPath": "D:\\project\\HomeWork8\\HomeWork8.csproj",
+      "projectPath": "D:\\first-work\\qweqwe\\project\\HomeWork8\\HomeWork8.csproj",
       "packagesPath": "C:\\Users\\саня\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\HomeWork8\\obj\\",
+      "outputPath": "D:\\first-work\\qweqwe\\project\\HomeWork8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\саня\\AppData\\Roaming\\NuGet\\NuGet.Config",

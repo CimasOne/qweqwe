@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\HomeWork6\\HomeWork6.csproj": {}
+    "D:\\first-work\\qweqwe\\project\\HomeWork6\\HomeWork6.csproj": {}
   },
   "projects": {
-    "D:\\project\\HomeWork6\\HomeWork6.csproj": {
+    "D:\\first-work\\qweqwe\\project\\HomeWork6\\HomeWork6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\HomeWork6\\HomeWork6.csproj",
+        "projectUniqueName": "D:\\first-work\\qweqwe\\project\\HomeWork6\\HomeWork6.csproj",
         "projectName": "HomeWork6",
-        "projectPath": "D:\\project\\HomeWork6\\HomeWork6.csproj",
+        "projectPath": "D:\\first-work\\qweqwe\\project\\HomeWork6\\HomeWork6.csproj",
         "packagesPath": "C:\\Users\\саня\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\HomeWork6\\obj\\",
+        "outputPath": "D:\\first-work\\qweqwe\\project\\HomeWork6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\саня\\AppData\\Roaming\\NuGet\\NuGet.Config",

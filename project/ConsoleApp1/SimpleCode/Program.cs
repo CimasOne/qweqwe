@@ -41,9 +41,11 @@ namespace SimpleCode
            }
 
            double a = double.Parse(str,numberFormatInfo);*/
-/*string srt;
+/*string srt;*/
 
-           int a, b;
+
+
+          /* int a, b;
            Console.WriteLine("Number 1");
 
            str = Console.ReadLine();
@@ -59,11 +61,19 @@ namespace SimpleCode
            int result = a + b;
 
            Console.WriteLine("Summa =" + result);*/
+
+
+
+
+
 /*string data;
 
             data = Console.ReadLine();
 
             Console.WriteLine("Hello" + data + "!!!");*/
+
+
+
 /*  while (true)
       { 
       Console.Clear();

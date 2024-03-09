@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\qweqwe\\project\\ExtremeCode\\ExtremeCode.csproj": {}
+    "D:\\first-work\\qweqwe\\project\\ExtremeCode\\ExtremeCode.csproj": {}
   },
   "projects": {
-    "D:\\qweqwe\\project\\ExtremeCode\\ExtremeCode.csproj": {
+    "D:\\first-work\\qweqwe\\project\\ExtremeCode\\ExtremeCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\qweqwe\\project\\ExtremeCode\\ExtremeCode.csproj",
+        "projectUniqueName": "D:\\first-work\\qweqwe\\project\\ExtremeCode\\ExtremeCode.csproj",
         "projectName": "ExtremeCode",
-        "projectPath": "D:\\qweqwe\\project\\ExtremeCode\\ExtremeCode.csproj",
+        "projectPath": "D:\\first-work\\qweqwe\\project\\ExtremeCode\\ExtremeCode.csproj",
         "packagesPath": "C:\\Users\\саня\\.nuget\\packages\\",
-        "outputPath": "D:\\qweqwe\\project\\ExtremeCode\\obj\\",
+        "outputPath": "D:\\first-work\\qweqwe\\project\\ExtremeCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\саня\\AppData\\Roaming\\NuGet\\NuGet.Config",

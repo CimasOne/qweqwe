@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SimpleCode(46-60lesson)/1.0.0": {
+        "runtime": {
+          "SimpleCode(46-60lesson).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleCode(46-60lesson)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -46,6 +46,8 @@ int outputDate = InputData < 0 ? 0 : InputData;
     }
 }*/
 
+
+
 /*int i = 0;
 int j = 3;
 
@@ -65,6 +67,9 @@ for (; i <17; i++)
 }
 
 Console.ReadLine();*/
+
+
+
 
 /*int fanSpeed = 3000;
 

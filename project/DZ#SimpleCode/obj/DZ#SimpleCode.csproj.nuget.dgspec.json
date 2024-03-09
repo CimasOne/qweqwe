@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\DZ#SimpleCode\\DZ#SimpleCode.csproj": {}
+    "D:\\first-work\\qweqwe\\project\\DZ#SimpleCode\\DZ#SimpleCode.csproj": {}
   },
   "projects": {
-    "D:\\project\\DZ#SimpleCode\\DZ#SimpleCode.csproj": {
+    "D:\\first-work\\qweqwe\\project\\DZ#SimpleCode\\DZ#SimpleCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\DZ#SimpleCode\\DZ#SimpleCode.csproj",
+        "projectUniqueName": "D:\\first-work\\qweqwe\\project\\DZ#SimpleCode\\DZ#SimpleCode.csproj",
         "projectName": "DZ#SimpleCode",
-        "projectPath": "D:\\project\\DZ#SimpleCode\\DZ#SimpleCode.csproj",
+        "projectPath": "D:\\first-work\\qweqwe\\project\\DZ#SimpleCode\\DZ#SimpleCode.csproj",
         "packagesPath": "C:\\Users\\саня\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\DZ#SimpleCode\\obj\\",
+        "outputPath": "D:\\first-work\\qweqwe\\project\\DZ#SimpleCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\саня\\AppData\\Roaming\\NuGet\\NuGet.Config",

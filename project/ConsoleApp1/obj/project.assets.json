@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\qweqwe\\project\\ConsoleApp1\\SimpleCode(1-15lesson).csproj",
+      "projectUniqueName": "D:\\first-work\\qweqwe\\project\\ConsoleApp1\\SimpleCode(1-15lesson).csproj",
       "projectName": "SimpleCode(1-15lesson)",
-      "projectPath": "D:\\qweqwe\\project\\ConsoleApp1\\SimpleCode(1-15lesson).csproj",
+      "projectPath": "D:\\first-work\\qweqwe\\project\\ConsoleApp1\\SimpleCode(1-15lesson).csproj",
       "packagesPath": "C:\\Users\\саня\\.nuget\\packages\\",
-      "outputPath": "D:\\qweqwe\\project\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\first-work\\qweqwe\\project\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\саня\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+D:\first-work\qweqwe\project\SimpleCode(46-60lesson)\bin\Debug\net8.0\SimpleCode(46-60lesson).exe
+D:\first-work\qweqwe\project\SimpleCode(46-60lesson)\bin\Debug\net8.0\SimpleCode(46-60lesson).deps.json
+D:\first-work\qweqwe\project\SimpleCode(46-60lesson)\bin\Debug\net8.0\SimpleCode(46-60lesson).runtimeconfig.json
+D:\first-work\qweqwe\project\SimpleCode(46-60lesson)\bin\Debug\net8.0\SimpleCode(46-60lesson).dll
+D:\first-work\qweqwe\project\SimpleCode(46-60lesson)\bin\Debug\net8.0\SimpleCode(46-60lesson).pdb
+D:\first-work\qweqwe\project\SimpleCode(46-60lesson)\obj\Debug\net8.0\SimpleCode(46-60lesson).GeneratedMSBuildEditorConfig.editorconfig
+D:\first-work\qweqwe\project\SimpleCode(46-60lesson)\obj\Debug\net8.0\SimpleCode(46-60lesson).AssemblyInfoInputs.cache
+D:\first-work\qweqwe\project\SimpleCode(46-60lesson)\obj\Debug\net8.0\SimpleCode(46-60lesson).AssemblyInfo.cs
+D:\first-work\qweqwe\project\SimpleCode(46-60lesson)\obj\Debug\net8.0\SimpleCode(46-60lesson).csproj.CoreCompileInputs.cache
+D:\first-work\qweqwe\project\SimpleCode(46-60lesson)\obj\Debug\net8.0\SimpleCode(46-60lesson).sourcelink.json
+D:\first-work\qweqwe\project\SimpleCode(46-60lesson)\obj\Debug\net8.0\SimpleCode(46-60lesson).dll
+D:\first-work\qweqwe\project\SimpleCode(46-60lesson)\obj\Debug\net8.0\refint\SimpleCode(46-60lesson).dll
+D:\first-work\qweqwe\project\SimpleCode(46-60lesson)\obj\Debug\net8.0\SimpleCode(46-60lesson).pdb
+D:\first-work\qweqwe\project\SimpleCode(46-60lesson)\obj\Debug\net8.0\SimpleCode(46-60lesson).genruntimeconfig.cache
+D:\first-work\qweqwe\project\SimpleCode(46-60lesson)\obj\Debug\net8.0\ref\SimpleCode(46-60lesson).dll
