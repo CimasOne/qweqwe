@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace SimpleCode_46_60lesson_
+
 {
     internal class Person
     {
@@ -14,12 +16,13 @@ namespace SimpleCode_46_60lesson_
 
         public Contacts Contacts { get; set; }
 
-        public string GetFullName() 
+        public string GetFullName()
+
         {
             return "okey";
         }
 
-        public string GetPhoneNumber() 
+        public string GetPhoneNumber()
         {
             return "qweqwe";
         }

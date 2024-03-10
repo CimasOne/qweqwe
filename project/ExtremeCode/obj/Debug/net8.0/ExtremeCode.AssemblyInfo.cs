@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExtremeCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae52b1a806d4ff2a0ed08157fbb07f6e34ad7518")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a39a498eb69b756b7de90ef2da2e907c49f4f9e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExtremeCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExtremeCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

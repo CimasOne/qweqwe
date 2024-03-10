@@ -14,27 +14,23 @@ namespace SimpleCode
 {
     internal class Program
     {
-     static void Main(string[] args)
-        {
-        static Person GetPerson()
-        {
+        static Person GetPerson() 
+          {
             Person person=null;
+
             return person;
-        }
+          }
         static void Main(string[] args)
         {
             Person person = GetPerson();
 
-            string phoneNumber = person?.Contacts?.PhoneNumber??"0";
+            string phoneNumber = person?.Contacts?.PhoneNumber ?? "0";
 
             Console.WriteLine(phoneNumber);
         }
-        }
+             
     }
 }
-
-
-
 
 
 
