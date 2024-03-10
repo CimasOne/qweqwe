@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimpleCode4660lesson
+namespace SimpleCode___lesson45_60_
 {
     internal class Contacts
     {
