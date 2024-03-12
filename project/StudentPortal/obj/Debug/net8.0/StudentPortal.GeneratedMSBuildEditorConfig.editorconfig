@@ -9,51 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudentPortal
 build_property.RootNamespace = StudentPortal
-build_property.ProjectDir = D:\project\StudentPortal\
+build_property.ProjectDir = D:\first-work\qweqwe\project\StudentPortal\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\project\StudentPortal
+build_property.MSBuildProjectDirectory = D:\first-work\qweqwe\project\StudentPortal
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/project/StudentPortal/Views/Home/Index.cshtml]
+[D:/first-work/qweqwe/project/StudentPortal/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/project/StudentPortal/Views/Home/Privacy.cshtml]
+[D:/first-work/qweqwe/project/StudentPortal/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/project/StudentPortal/Views/Shared/Error.cshtml]
+[D:/first-work/qweqwe/project/StudentPortal/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/project/StudentPortal/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/first-work/qweqwe/project/StudentPortal/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/project/StudentPortal/Views/Students/Add.cshtml]
+[D:/first-work/qweqwe/project/StudentPortal/Views/Students/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/project/StudentPortal/Views/Students/Edit.cshtml]
+[D:/first-work/qweqwe/project/StudentPortal/Views/Students/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/project/StudentPortal/Views/Students/List.cshtml]
+[D:/first-work/qweqwe/project/StudentPortal/Views/Students/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/project/StudentPortal/Views/_ViewImports.cshtml]
+[D:/first-work/qweqwe/project/StudentPortal/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/project/StudentPortal/Views/_ViewStart.cshtml]
+[D:/first-work/qweqwe/project/StudentPortal/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/project/StudentPortal/Views/Shared/_Layout.cshtml]
+[D:/first-work/qweqwe/project/StudentPortal/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-c84ay4pj83

@@ -4020,11 +4020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\StudentPortal\\StudentPortal.csproj",
+      "projectUniqueName": "D:\\first-work\\qweqwe\\project\\StudentPortal\\StudentPortal.csproj",
       "projectName": "StudentPortal",
-      "projectPath": "D:\\project\\StudentPortal\\StudentPortal.csproj",
+      "projectPath": "D:\\first-work\\qweqwe\\project\\StudentPortal\\StudentPortal.csproj",
       "packagesPath": "C:\\Users\\саня\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\StudentPortal\\obj\\",
+      "outputPath": "D:\\first-work\\qweqwe\\project\\StudentPortal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\саня\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4083,7 +4083,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
