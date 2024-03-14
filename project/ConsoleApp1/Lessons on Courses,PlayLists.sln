@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleCode(30-45lesson)", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleCode(lesson61-75)", "..\SimpleCode(lesson61-75)\SimpleCode(lesson61-75).csproj", "{D618FE6F-F290-40FE-848B-12902027B0FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCode(lesson45-60)", "..\SimpleCode ( lesson45-60)\SimpleCode(lesson45-60).csproj", "{164105C3-EF2B-4B9A-BF80-C96314630B0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleCode(lesson45-60)", "..\SimpleCode ( lesson45-60)\SimpleCode(lesson45-60).csproj", "{164105C3-EF2B-4B9A-BF80-C96314630B0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAR", "..\CAR\CAR.csproj", "{50E49A9A-28AE-4D39-BF95-A9A2DEB99802}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{164105C3-EF2B-4B9A-BF80-C96314630B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{164105C3-EF2B-4B9A-BF80-C96314630B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{164105C3-EF2B-4B9A-BF80-C96314630B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E49A9A-28AE-4D39-BF95-A9A2DEB99802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E49A9A-28AE-4D39-BF95-A9A2DEB99802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E49A9A-28AE-4D39-BF95-A9A2DEB99802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E49A9A-28AE-4D39-BF95-A9A2DEB99802}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

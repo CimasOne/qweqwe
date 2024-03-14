@@ -1,0 +1,15 @@
+D:\first-work\qweqwe\project\CAR\bin\Debug\net8.0\CAR.exe
+D:\first-work\qweqwe\project\CAR\bin\Debug\net8.0\CAR.deps.json
+D:\first-work\qweqwe\project\CAR\bin\Debug\net8.0\CAR.runtimeconfig.json
+D:\first-work\qweqwe\project\CAR\bin\Debug\net8.0\CAR.dll
+D:\first-work\qweqwe\project\CAR\bin\Debug\net8.0\CAR.pdb
+D:\first-work\qweqwe\project\CAR\obj\Debug\net8.0\CAR.GeneratedMSBuildEditorConfig.editorconfig
+D:\first-work\qweqwe\project\CAR\obj\Debug\net8.0\CAR.AssemblyInfoInputs.cache
+D:\first-work\qweqwe\project\CAR\obj\Debug\net8.0\CAR.AssemblyInfo.cs
+D:\first-work\qweqwe\project\CAR\obj\Debug\net8.0\CAR.csproj.CoreCompileInputs.cache
+D:\first-work\qweqwe\project\CAR\obj\Debug\net8.0\CAR.sourcelink.json
+D:\first-work\qweqwe\project\CAR\obj\Debug\net8.0\CAR.dll
+D:\first-work\qweqwe\project\CAR\obj\Debug\net8.0\refint\CAR.dll
+D:\first-work\qweqwe\project\CAR\obj\Debug\net8.0\CAR.pdb
+D:\first-work\qweqwe\project\CAR\obj\Debug\net8.0\CAR.genruntimeconfig.cache
+D:\first-work\qweqwe\project\CAR\obj\Debug\net8.0\ref\CAR.dll
