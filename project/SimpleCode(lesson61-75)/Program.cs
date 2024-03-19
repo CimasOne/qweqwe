@@ -11,7 +11,151 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 namespace SimpleCode
 
 {
-    class Students
+    internal class Program
+    {
+        interface IHasInfo
+        {
+            void ShowInfo();
+        }
+
+        interface IWeapon
+        {
+            void Fire();
+        }
+
+        abstract class Weapon : IHasInfo, IWeapon
+        {
+            public abstract int Damage { get; }
+
+            public abstract void Fire();
+
+            public void ShowInfo()
+            {
+                Console.WriteLine($"{GetType().Name} Damage: {Damage}");
+            }
+        }
+
+        class Gun : Weapon
+        {
+            public override int Damage { get { return 5; } }
+
+            public override void Fire()
+            {
+                Console.WriteLine("Пыщ");
+            }
+        }
+
+        class LaserGun : Weapon
+        {
+            public override int Damage { get { return 8; } }
+
+            public override void Fire()
+            {
+                Console.WriteLine("Пыy");
+            }
+        }
+
+        class Bow : Weapon
+        {
+            public override int Damage => 3;
+
+            public override void Fire()
+            {
+                Console.WriteLine("Tыщ");
+            }
+        }
+
+        class Player
+        {
+            public void Fire(Weapon weapon)
+            {
+                weapon.Fire();
+            }
+            public void CheckInfo(IHasInfo weapon)
+            {
+                weapon.ShowInfo();
+            }
+        }
+
+
+        static void Main(string[] args)
+        {
+            Player player = new Player();
+
+            Weapon[] Inventory = { new Gun(), new LaserGun(), new Bow() };
+
+            foreach (var item in Inventory)
+            {
+                player.CheckInfo(item);
+                player.Fire(item);
+                Console.WriteLine();
+            }
+
+        }
+    }
+}
+
+
+
+/*interface IFirstInterface
+        {
+            void Action();
+        }
+
+        interface ISecondInterface
+        {
+            void Action();
+        }
+        class MyClass : IFirstInterface, ISecondInterface
+        {
+            public void Action()
+            {
+                Console.WriteLine("qweqwe");
+            }
+        }
+        static void Foo(IFirstInterface firstInterface)
+        {
+            firstInterface.Action();
+        }
+
+        static void Bar(ISecondInterface secondInterface)
+        {
+            secondInterface.Action();
+        }
+        static void Main(string[] args) 
+        {
+            MyClass myClass = new MyClass();
+            Foo(myClass);
+            Bar(myClass);
+            Console.WriteLine();
+            MyOtherClass myOtherClass = new MyOtherClass();
+            Foo(myOtherClass);
+            Bar(myOtherClass);
+        }
+
+        class MyOtherClass : IFirstInterface,ISecondInterface
+        {
+            void IFirstInterface.Action()
+            {
+                Console.WriteLine("first");
+            }
+
+            void ISecondInterface.Action()
+            {
+                Console.WriteLine("second") ;
+            }
+        }*/
+
+
+
+
+
+/*static void Main(string[] args)
+        {
+            Students student = new Students("qwe","qweqwe","wsde",new DateTime(2003,08,05));
+            student.Print();
+        }
+class Students
     {
         public Students(string lastName,DateTime birthday) 
         {
@@ -42,19 +186,11 @@ namespace SimpleCode
             Console.WriteLine($"Имя: {_firstName}\n Фамилия :{_lastName}\n" +
                 $"Отчество :{_middleName}\n День рождения: {_birthday}");
         }
-    }
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Students student = new Students("qwe","qweqwe","wsde",new DateTime(2003,08,05));
-            student.Print();
-        }
-       
-    }
-}
- /*
-  * enum DayOfWeek: byte
+    }*/
+
+
+ 
+  /* enum DayOfWeek: byte
         {
             Monday,
             Tuesday, 
@@ -106,6 +242,9 @@ namespace SimpleCode
             int result = Sum(123, 321, 32, 213, 44, 12, 445);
             Console.WriteLine(result);
         }*/
+
+
+
 
 /*class Item
         {
